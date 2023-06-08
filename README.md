@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/f5gdgf6ybcmb35ed?svg=true)](https://ci.appveyor.com/project/Andrey09123/ahj-homeworks-loading-styling)
